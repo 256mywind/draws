@@ -1,0 +1,22 @@
+{
+  "name": "draw-bees",
+  "version": "1.0.0",
+  "description": "bees says hello world",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/256mywind/draws.git",
+    "directory": "draw/draw-bees"
+  },
+  "main": "index.js",
+  "author": "justowen",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cowsay": "1.5.0",
+    "draw-armadillo": "^1.0.0",
+    "draw-banana": "^1.0.0",
+    "draw-bees": "^1.0.0"
+  }
+}

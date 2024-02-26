@@ -9,6 +9,8 @@
     "draw/*"
   ],
   "dependencies": {
-    "cowsay": "1.5.0"    
+    "cowsay": "1.5.0",
+    "draw-armadillo": "^1.0.0",
+    "draw-banana": "^1.0.0"
   }
 }
