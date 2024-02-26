@@ -1,0 +1,20 @@
+{
+  "name": "draw-armadillo",
+  "version": "1.0.0",
+  "description": "armadillo says draw world",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/256yangdong/draw-worlds.git",
+    "directory": "draw/draw-armadillo"
+  },
+  "main": "index.js",
+  "author": "justowen",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cowsay": "1.5.0",
+    "draw-armadillo": "^1.0.0"
+  }
+}
