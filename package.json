@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "draw worlds",
   "main": "index.js",
-  "repository": "https://github.com/256yangdong/draw-worlds.git",
+  "repository": "https://github.com/256mywind/draws.git",
   "license": "MIT",
   "workspaces": [
     "draw/*"
